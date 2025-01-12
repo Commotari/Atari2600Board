@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name Atari2600Jr)(type Legacy)(uri ${KIPRJMOD}/Atari2600Jr.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "Atari2600Jr")(type "Legacy")(uri "${KIPRJMOD}/Atari2600Jr.lib")(options "")(descr ""))
+  (lib (name "JrBoard-rescue")(type "KiCad")(uri "${KIPRJMOD}/JrBoard-rescue.kicad_sym")(options "")(descr ""))
 )
